@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 72B1-5B73
+
+ Directory of C:\Users\Uma Karthikeyan\Documents\MyProject
+
+09/12/2018  03:15 PM    <DIR>          .
+09/12/2018  03:15 PM    <DIR>          ..
+09/12/2018  03:16 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  366,357,549,056 bytes free
